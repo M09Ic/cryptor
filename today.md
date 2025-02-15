@@ -1,0 +1,69 @@
+# 每日安全资讯（2025-02-16）
+
+- Cointelegraph.com News
+  - [ ] [KIP Protocol reveals involvement in Javier Milei-endorsed Libra](https://cointelegraph.com/news/kip-protocol-reveals-involvement-javier-milei-endorsed-libra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Intent-based solutions can fix DeFi liquidity](https://cointelegraph.com/news/intent-based-solutions-can-fix-de-fi-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Bitcoin&#039;s giant &#039;megaphone pattern&#039; sets $270K-300K BTC price target](https://cointelegraph.com/news/bitcoin-giant-megaphone-pattern-270k-300k-btc-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Leveraged ETFs explained: How do they work?](https://cointelegraph.com/explained/leveraged-etfs-explained-how-do-they-work?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Pantera Capital founder faces tax probe over $850M crypto profits: Report](https://cointelegraph.com/news/pantera-capital-founder-tax-investigation-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Over 600K new tokens launched in January, sparking liquidity fears](https://cointelegraph.com/news/crypto-token-issuance-600k-liquidity-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Javier Milei-endorsed Libra token crashes after $107M insider rug pull](https://cointelegraph.com/news/milei-libra-token-scandal-107m-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Las Vegas man accused of running $24M crypto-linked Ponzi scheme](https://cointelegraph.com/news/las-vegas-man-crypto-linked-ai-ponzi-scheme-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [SEC asks for 28 more days to respond to Coinbase&#039;s appeal](https://cointelegraph.com/news/crypto-exchange-coinbase-us-sec-lawsuit-request-extension?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [NYSE proposes rule change to allow ETH staking on Grayscale’s spot Ether ETFs](https://cointelegraph.com/news/grayscale-spot-ether-etf-staking-proposal-united-states-nyse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- HackerNoon
+  - [ ] [A Programmer's Guide to Game Design: The Major Ingredients You Should Know](https://hackernoon.com/a-programmers-guide-to-game-design-the-major-ingredients-you-should-know?source=rss)
+  - [ ] [The HackerNoon Newsletter: No Startup Has Ever Failed Because it Didn’t Have a Blog (2/15/2025)](https://hackernoon.com/2-15-2025-newsletter?source=rss)
+  - [ ] [The TechBeat: Futures of Ethereum II - Censorship Resistance (2/15/2025)](https://hackernoon.com/2-15-2025-techbeat?source=rss)
+  - [ ] [Reading Documentation Shouldn't Be a Chore](https://hackernoon.com/reading-documentation-shouldnt-be-a-chore?source=rss)
+  - [ ] [How to Expose (And Fix) Hidden Bottlenecks in Adobe Experience Manager](https://hackernoon.com/how-to-expose-and-fix-hidden-bottlenecks-in-adobe-experience-manager?source=rss)
+  - [ ] [Launch a Product in a New Market Is Hard, So I Made a 4-Step Framework for Success](https://hackernoon.com/launch-a-product-in-a-new-market-is-hard-so-i-made-a-4-step-framework-for-success?source=rss)
+  - [ ] [Every New Apple Device Expected in 2025](https://hackernoon.com/every-new-apple-device-expected-in-2025?source=rss)
+  - [ ] [How Hospitals Use AI to Boost Efficiency in Medical Imaging Technology](https://hackernoon.com/how-hospitals-use-ai-to-boost-efficiency-in-medical-imaging-technology?source=rss)
+  - [ ] [The Phenomenology of Dark Matter Explained](https://hackernoon.com/the-phenomenology-of-dark-matter-explained?source=rss)
+  - [ ] [Theoretical and Experimental Constraints: Discussing Different Constraints on the Model Parameters](https://hackernoon.com/theoretical-and-experimental-constraints-discussing-different-constraints-on-the-model-parameters?source=rss)
+  - [ ] [A Phenomenological Study of WIMP Models: Scalar Sector, Gauge Sector, and More](https://hackernoon.com/a-phenomenological-study-of-wimp-models-scalar-sector-gauge-sector-and-more?source=rss)
+  - [ ] [Studying a Two-Component Dark Matter Model: An Introduction](https://hackernoon.com/studying-a-two-component-dark-matter-model-an-introduction?source=rss)
+  - [ ] [AI and the Future of Work: Transforming Industries](https://hackernoon.com/ai-and-the-future-of-work-transforming-industries?source=rss)
+  - [ ] [AI’s Hallucinations Are Over](https://hackernoon.com/ais-hallucinations-are-over?source=rss)
+- Decrypt
+  - [ ] [Apple Teasing Home Robots? Top Analyst Predicts Surprise for iPhone Giant](https://decrypt.co/306093/apple-home-robots-analyst-predicts-surprise)
+  - [ ] [This Week in Bitcoin: ETF Flows Turn Red, SEC Hack Plea and GameStop Considers Buying](https://decrypt.co/306000/this-week-bitcoin-etf-flows-red-sec-hack-gamestop)
+  - [ ] [Elon Musk and Dogecoin: How the Billionaire Became the 'Dogefather'](https://decrypt.co/291361/elon-musk-dogecoin-timeline-explained)
+  - [ ] [Wisconsin Boosts Bitcoin ETF Holdings, Going All-In on BlackRock](https://decrypt.co/306077/wisconsin-boosts-bitcoin-etf-holdings-blackrock)
+  - [ ] [Argentina’s President Javier Milei Launches Solana Meme Coin—LIBRA Crashes 89%](https://decrypt.co/306134/did-argentina-president-javier-milei-launch-solana-meme-coin)
+  - [ ] ['Ahead of Their Time': Meebits Ethereum NFT IP Sold as New Owner Reveals Bits Rewards](https://decrypt.co/306109/meebits-ethereum-nft-ip-sold-bits-rewards)
+- ChainFeeds精选
+  - [ ] [ChainFeeds Newsletter 每日精选 Web3 深度投研「简报」+ AI 驱动的热点新闻榜单，帮你做出聪明决策](https://substack.chainfeeds.xyz/p/deepseek-web3-ai-bnb-chain-cz-bnb)
+- Crypto Briefing
+  - [ ] [Argentina’s president withdraws support for LIBRA token, admits to skipping due diligence](https://cryptobriefing.com/milei-crypto-controversies-libra-coinx/)
+  - [ ] [Argentine President-backed LIBRA token tanks 85% as team reportedly dumps $87 million](https://cryptobriefing.com/libra-token-crash-argentina/)
+  - [ ] [Tether engages with US lawmakers on stablecoin regulatory framework](https://cryptobriefing.com/tether-stablecoin-regulations-engagement/)
+  - [ ] [Hedge fund giant Millennium discloses $2.6B Bitcoin ETF and $182M Ethereum ETF holdings](https://cryptobriefing.com/millennium-bitcoin-ethereum-etfs-holdings/)
+- Crypto News on Seeking Alpha
+  - [ ] [Will GameStop keep its retro vibe or pile billions into crypto?](https://seekingalpha.com/news/4408943-will-gamestop-keep-its-retro-vibe-or-pile-billions-into-crypto?utm_source=feed_news_crypto&utm_medium=referral&feed_item_type=news)
+- Release notes from chia-blockchain
+  - [ ] [2.5.1](https://github.com/Chia-Network/chia-blockchain/releases/tag/2.5.1)
+- Release notes from nethermind
+  - [ ] [v1.31.0](https://github.com/NethermindEth/nethermind/releases/tag/1.31.0)
+- Release notes from risc0
+  - [ ] [v1.3.0-rc.1](https://github.com/risc0/risc0/releases/tag/v1.3.0-rc.1)
+- Release notes from Planet
+  - [ ] [insider-20250214-2](https://github.com/Planetable/Planet/releases/tag/insider-20250214-2)
+- Release notes from mina
+  - [ ] [Devnet Pre-Release 3.0.4-alpha2](https://github.com/MinaProtocol/mina/releases/tag/3.0.4-alpha2)
+- HODLong 后浪
+  - [ ] [Ep.49 [EN]: Nico: Sailing with OX.FUN in the first meme bull market](https://hodlong-hou-lang.simplecast.com/episodes/ep49-en-nico-sailing-with-oxfun-in-the-first-meme-bull-market-AkdX4OIT)
+- Release notes from sui
+  - [ ] [sui_v1.44.0_1739642723_rel_notes: Clean up various APIs (#21235)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739642723_rel_notes)
+  - [ ] [sui_v1.44.0_1739637261_ci](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739637261_ci)
+  - [ ] [sui_v1.44.0_1739631919_rel_notes](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739631919_rel_notes)
+  - [ ] [sui_v1.44.0_1739604895_ci: fix(simtests): pass env vars to cargo-simtest (#21035)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739604895_ci)
+  - [ ] [sui_v1.44.0_1739599539_rel_notes: fix(simtests): pass env vars to cargo-simtest (#21035)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739599539_rel_notes)
+  - [ ] [sui_v1.44.0_1739594182_ci](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739594182_ci)
+  - [ ] [sui_v1.44.0_1739588812_rel_notes](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739588812_rel_notes)
+- Ethereum Research - Latest topics
+  - [ ] [Combining on-chain identifiers and proof system to streamline data processing across modular networks](https://ethresear.ch/t/combining-on-chain-identifiers-and-proof-system-to-streamline-data-processing-across-modular-networks/21753)
+- Ethereum Research - Latest posts
+  - [ ] [Combining on-chain identifiers and proof system to streamline data processing across modular networks](https://ethresear.ch/t/combining-on-chain-identifiers-and-proof-system-to-streamline-data-processing-across-modular-networks/21753#post_1)

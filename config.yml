@@ -1,0 +1,59 @@
+repo: https://github.com/chainreactors/picker
+proxy:
+  url: 'http://127.0.0.1:7890'
+  rss: false
+  bot: false
+rss:
+  RSSAggregatorforWeb3:
+    enabled: true
+    filename: RSSAggregatorforWeb3.opml
+  mirror_picker:
+    enabled: true
+    filename: mirror_picker.opml
+bot:
+  feishu:
+    enabled: true
+    secrets: FEISHU_KEY
+    key: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+  wecom:
+    enabled: false
+    secrets: WECOM_KEY
+    key: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+  dingtalk:
+    enabled: false
+    secrets: DINGTALK_KEY
+    key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    secret: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  qq:
+    enabled: false
+    secrets: QQ_KEY
+    qq_id: '2419110059'
+    group_id:
+      - '808542982'
+      - '217863340'
+    key: xxxxxxxxxx
+  telegram:
+    enabled: false
+    secrets: TELEGRAM_KEY
+    chat_id:
+      - '-799557100'
+    key: xxxxxxxxxx
+  mail:
+    enabled: false
+    secrets: MAIL_KEY
+    secrets_receiver: MAIL_RECEIVER
+    address: firmianay@163.com
+    server: smtp.163.com
+    from: security-bot <yangchao@lixiang.com>
+    receiver: 'a@163.com,b@163.com'
+    key: xxxxxxxxxx
+pick_bot:
+  dingtalk:
+    enabled: false
+    secrets: DINGTALK_KEY
+    key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+    secret: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  feishu:
+    enabled: true
+    secrets: FEISHU_KEY
+    key: xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx

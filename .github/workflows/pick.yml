@@ -1,0 +1,64 @@
+name: Pick Push
+
+on:
+  schedule:
+    - cron: '55 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  pick:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.9'
+
+      - name: Cache pip
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: ./install.sh
+
+      - name: Push articles
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          FEISHU_KEY: ${{ secrets.FEISHU_KEY }}
+          PICKER_FEISHU_KEY: ${{ secrets.PICKER_FEISHU_KEY }}
+          WECOM_KEY: ${{ secrets.WECOM_KEY }}
+          DINGTALK_KEY: ${{ secrets.DINGTALK_KEY }}
+          DINGTALK_SECRET: ${{ secrets.DINGTALK_SECRET }}
+          PICKER_DINGTALK_KEY: ${{ secrets.PICKER_DINGTALK_KEY }}
+          PICKER_DINGTALK_SECRET: ${{ secrets.PICKER_DINGTALK_SECRET }}
+          QQ_KEY: ${{ secrets.QQ_KEY }}
+          TELEGRAM_KEY: ${{ secrets.TELEGRAM_KEY }}
+          MAIL_KEY: ${{ secrets.MAIL_KEY }}
+          MAIL_RECEIVER: ${{ secrets.MAIL_RECEIVER }}
+        run: python3 picker.py --update-pick
+
+      - name: Create Issue if content is valid
+        run: |
+          if ! grep -q "没有精选文章" today_pick.md; then
+            gh issue create --title "[每日精选] `date +'%Y-%m-%d'`" -F today_pick.md --label "dailypick"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+
+      - name: Commit
+        run: |
+          git diff
+          git config --global user.email chainreactorbot@gmail.com
+          git config --global user.name chainreactorbot
+          git add archive today_pick.md
+          git commit -m "每日精选汇总（`date +'%Y-%m-%d'`）"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
