@@ -18,7 +18,7 @@ from pyrate_limiter import Duration, Limiter, Rate
 
 from utils import Color
 
-__all__ = ["feishuBot", "wecomBot", "dingtalkBot", "qqBot", "mailBot"]
+__all__ = ["feishuBot", "wecomBot", "dingtalkBot", "mailBot"]
 today = datetime.now().strftime("%Y-%m-%d")
 
 
@@ -74,16 +74,16 @@ def init_bot(bot_conf: dict, proxy_url='', pick=False):
                     if bot.test_connect():
                         bots.append(bot)
 
-                elif name == 'qq':
-                    qq_id = get_env_key('QQ_ID', pick) or v.get('qq_id')
-                    group_id = get_env_key(
-                        'QQ_GROUP_ID', pick) or v.get('group_id')
-                    if isinstance(group_id, str):
-                        group_id = [int(id.strip())
-                                    for id in group_id.split(',')]
-                    bot = qqBot(group_id)
-                    if bot.start_server(qq_id, v['key']):
-                        bots.append(bot)
+                # elif name == 'qq':
+                #     qq_id = get_env_key('QQ_ID', pick) or v.get('qq_id')
+                #     group_id = get_env_key(
+                #         'QQ_GROUP_ID', pick) or v.get('group_id')
+                #     if isinstance(group_id, str):
+                #         group_id = [int(id.strip())
+                #                     for id in group_id.split(',')]
+                #     bot = qqBot(group_id)
+                #     if bot.start_server(qq_id, v['key']):
+                #         bots.append(bot)
 
                 elif name == 'mail':
                     receiver = get_env_key(
@@ -261,75 +261,75 @@ class dingtalkBot:
             print(r.text)
 
 
-class qqBot:
-    """QQ群机器人
-    https://github.com/Mrs4s/go-cqhttp
-    """
-    cqhttp_path = Path(__file__).absolute().parent.joinpath('cqhttp')
+# class qqBot:
+#     """QQ群机器人
+#     https://github.com/Mrs4s/go-cqhttp
+#     """
+#     cqhttp_path = Path(__file__).absolute().parent.joinpath('cqhttp')
 
-    def __init__(self, group_id: list) -> None:
-        self.server = 'http://127.0.0.1:5700'
-        self.group_id = group_id
+#     def __init__(self, group_id: list) -> None:
+#         self.server = 'http://127.0.0.1:5700'
+#         self.group_id = group_id
 
-    @staticmethod
-    def parse_results(results: list):
-        text_list = []
-        for result in results:
-            (feed, value), = result.items()
-            text = f'[ {feed} ]\n\n'
-            for title, link in value.items():
-                text += f'{title}\n{link}\n\n'
-            text_list.append(text.strip())
-        return text_list
+#     @staticmethod
+#     def parse_results(results: list):
+#         text_list = []
+#         for result in results:
+#             (feed, value), = result.items()
+#             text = f'[ {feed} ]\n\n'
+#             for title, link in value.items():
+#                 text += f'{title}\n{link}\n\n'
+#             text_list.append(text.strip())
+#         return text_list
 
-    def send(self, text_list: list):
-        limiter = Limiter(Rate(20, Duration.MINUTE))
-        for text in text_list:
-            limiter.try_acquire('qq_bot')
-            print(f'{len(text)} {text[:50]}...{text[-50:]}')
+#     def send(self, text_list: list):
+#         limiter = Limiter(Rate(20, Duration.MINUTE))
+#         for text in text_list:
+#             limiter.try_acquire('qq_bot')
+#             print(f'{len(text)} {text[:50]}...{text[-50:]}')
 
-            for id in self.group_id:
-                try:
-                    r = requests.post(
-                        f'{self.server}/send_group_msg?group_id={id}&&message={text}')
-                    if r.status_code == 200:
-                        Color.print_success(f'[+] qqBot 发送成功 {id}')
-                    else:
-                        Color.print_failed(f'[-] qqBot 发送失败 {id}')
-                except Exception as e:
-                    Color.print_failed(f'[-] qqBot 发送失败 {id}')
-                    print(e)
+#             for id in self.group_id:
+#                 try:
+#                     r = requests.post(
+#                         f'{self.server}/send_group_msg?group_id={id}&&message={text}')
+#                     if r.status_code == 200:
+#                         Color.print_success(f'[+] qqBot 发送成功 {id}')
+#                     else:
+#                         Color.print_failed(f'[-] qqBot 发送失败 {id}')
+#                 except Exception as e:
+#                     Color.print_failed(f'[-] qqBot 发送失败 {id}')
+#                     print(e)
 
-    def start_server(self, qq_id, qq_passwd, timeout=60):
-        config_path = self.cqhttp_path.joinpath('config.yml')
-        with open(config_path, 'r') as f:
-            data = yaml.load(f, Loader=yaml.FullLoader)
-            data['account']['uin'] = int(qq_id)
-            data['account']['password'] = qq_passwd
-        with open(config_path, 'w+') as f:
-            yaml.dump(data, f)
+#     def start_server(self, qq_id, qq_passwd, timeout=60):
+#         config_path = self.cqhttp_path.joinpath('config.yml')
+#         with open(config_path, 'r') as f:
+#             data = yaml.load(f, Loader=yaml.FullLoader)
+#             data['account']['uin'] = int(qq_id)
+#             data['account']['password'] = qq_passwd
+#         with open(config_path, 'w+') as f:
+#             yaml.dump(data, f)
 
-        subprocess.run('cd cqhttp && ./go-cqhttp -d', shell=True)
+#         subprocess.run('cd cqhttp && ./go-cqhttp -d', shell=True)
 
-        timeout = time.time() + timeout
-        while True:
-            try:
-                requests.get(self.server)
-                Color.print_success('[+] qqBot 启动成功')
-                return True
-            except Exception as e:
-                time.sleep(1)
+#         timeout = time.time() + timeout
+#         while True:
+#             try:
+#                 requests.get(self.server)
+#                 Color.print_success('[+] qqBot 启动成功')
+#                 return True
+#             except Exception as e:
+#                 time.sleep(1)
 
-            if time.time() > timeout:
-                qqBot.kill_server()
-                Color.print_failed('[-] qqBot 启动失败')
-                return False
+#             if time.time() > timeout:
+#                 qqBot.kill_server()
+#                 Color.print_failed('[-] qqBot 启动失败')
+#                 return False
 
-    @classmethod
-    def kill_server(cls):
-        pid_path = cls.cqhttp_path.joinpath('go-cqhttp.pid')
-        subprocess.run(f'cat {pid_path} | xargs kill',
-                       stderr=subprocess.DEVNULL, shell=True)
+#     @classmethod
+#     def kill_server(cls):
+#         pid_path = cls.cqhttp_path.joinpath('go-cqhttp.pid')
+#         subprocess.run(f'cat {pid_path} | xargs kill',
+#                        stderr=subprocess.DEVNULL, shell=True)
 
 
 class mailBot:

@@ -24,14 +24,6 @@ bot:
     secrets: DINGTALK_KEY
     key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     secret: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-  qq:
-    enabled: false
-    secrets: QQ_KEY
-    qq_id: '2419110059'
-    group_id:
-      - '808542982'
-      - '217863340'
-    key: xxxxxxxxxx
   telegram:
     enabled: false
     secrets: TELEGRAM_KEY

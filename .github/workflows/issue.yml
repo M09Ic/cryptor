@@ -15,7 +15,7 @@ jobs:
       - name: Change Name
         uses: actions-cool/issues-helper@v3
         with:
-          actions: 'update-issue'
+          actions: "update-issue"
           token: ${{ secrets.MY_GITHUB_TOKEN }}
           issue-number: ${{ github.event.issue.number }}
           labels: pick
@@ -29,7 +29,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
-          python-version: '3.9'
+          python-version: "3.9"
 
       - name: Cache pip
         uses: actions/cache@v2
@@ -40,7 +40,7 @@ jobs:
             ${{ runner.os }}-pip-
 
       - name: Install dependencies
-        run: ./install.sh
+        run: sh ./install.sh
       - name: Update Body
         run: python3 picker.py --push-issue ${{ github.event.issue.number }}
         env:
@@ -55,6 +55,4 @@ jobs:
           TELEGRAM_KEY: ${{ secrets.TELEGRAM_KEY }}
           MAIL_KEY: ${{ secrets.MAIL_KEY }}
           MAIL_RECEIVER: ${{ secrets.MAIL_RECEIVER }}
-          GH_TOKEN : ${{ secrets.MY_GITHUB_TOKEN }}
-
-
+          GH_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
