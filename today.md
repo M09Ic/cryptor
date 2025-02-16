@@ -1,152 +1,100 @@
-# 每日安全资讯（2025-02-15）
+# 每日安全资讯（2025-02-16）
 
-- Stories by Aptos Labs on Medium
-  - [ ] [Data Analyst Guide to Aptos: DeFi Swaps (pt.2)](https://medium.com/aptoslabs/data-analyst-guide-to-aptos-defi-swaps-pt2-e343ac6be84e?source=rss-70211828fe2e------2)
-- BitMEX Blog
-  - [ ] [Now Live: BROCCOLIUSDT Perpetual Swap Listing With Up to 50x Leverage](https://blog.bitmex.com/broccoliusdt/)
-  - [ ] [Delisting of Illiquid Contracts](https://blog.bitmex.com/delisting-of-illiquid-contracts-2/)
-- Ethereum Foundation Blog
-  - [ ] [Pectra Testnet Announcement](https://blog.ethereum.org/en/2025/02/14/pectra-testnet-announcement)
-- Bitfinex blog
-  - [ ] [What Covenant Proposals are Being Looked at for Bitcoin in 2025?](https://blog.bitfinex.com/education/what-covenant-proposals-are-being-looked-at-for-bitcoin-in-2025/)
-- CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
-  - [ ] [SEC Asks Court for Coinbase Case Deadline Extension, Citing 'Potential Resolution' Prospects](https://www.coindesk.com/policy/2025/02/14/sec-asks-court-for-coinbase-case-deadline-extension-citing-potential-resolution-prospects)
-  - [ ] [SafeMoon to Launch Memecoin on Solana After Burning Most of SFM Supply](https://www.coindesk.com/markets/2025/02/14/safemoon-to-launch-memecoin-on-solana-after-burning-most-of-sfm-supply)
-  - [ ] [Wisconsin More Than Doubled BlackRock Bitcoin ETF Holdings to 6M Shares](https://www.coindesk.com/markets/2025/02/14/state-of-wisconsin-more-than-doubles-blackrock-bitcoin-etf-stake-to-usd322m)
-  - [ ] [Justin Sun on Mars, Tropico, Game of Thrones, and That Banana](https://www.coindesk.com/consensus-hong-kong-2025-coverage/2025/02/14/justin-sun-on-mars-tropico-game-of-thrones-and-that-banana)
-  - [ ] [What to Expect at Consensus Hong Kong](https://www.coindesk.com/consensus-hong-kong-2025-coverage/2025/02/14/what-to-expect-at-consensus-hong-kong)
-  - [ ] [El Salvador Dispatch: The Origins of the Bitcoin Experiment](https://www.coindesk.com/coindesk-news/2025/02/14/el-salvador-dispatch-the-origins-of-the-bitcoin-experiment)
-  - [ ] [Bitcoin Looks to Break Long Streak of Weekend Skids](https://www.coindesk.com/markets/2025/02/14/bitcoin-looks-to-break-long-streak-of-negative-weekend-price-performance)
-  - [ ] [Fan Tokens Surge Following Tether’s Juventus FC Investment](https://www.coindesk.com/markets/2025/02/14/fan-tokens-surge-following-tether-s-juventus-fc-investment)
-  - [ ] [Crypto Exchange Bybit Is No Longer Operating Illegally in France](https://www.coindesk.com/policy/2025/02/14/crypto-exchange-bybit-is-no-longer-operating-illegally-in-france)
-  - [ ] [Reality of XRP ETF Is One Step Closer After SEC Acknowledges Filing](https://www.coindesk.com/policy/2025/02/14/reality-of-xrp-etf-is-one-step-closer-after-sec-acknowledges-filing)
-  - [ ] [CoinDesk 20 Performance Update: Ripple (XRP) Jumps 9.4% as Index Trades Higher](https://www.coindesk.com/coindesk-indices/2025/02/14/coindesk-20-performance-update-ripple-xrp-jumps-9-4-as-index-trades-higher)
-  - [ ] [USDT Issuer Tether Acquires Stake in Football Club Juventus](https://www.coindesk.com/business/2025/02/14/usdt-issuer-tether-acquires-stake-in-football-club-juventus)
-  - [ ] [HashKey Group Gets $30M Investment From Chinese VC Gaorong Ventures: Report](https://www.coindesk.com/business/2025/02/14/hashkey-group-gets-usd30m-investment-from-chinese-vc-gaorong-ventures-report)
-  - [ ] [Crypto Daybook Americas: Roses Are Red, Violets Are Blue, Inflation Is Hot, but Bitcoin Shines Through](https://www.coindesk.com/daybook-us/2025/02/14/crypto-daybook-americas-roses-are-red-violets-are-blue-inflation-is-hot-but-bitcoin-shines-through)
-  - [ ] [Bitcoin Short-Term Holders Now Possess Over 4M BTC, Shows Cycle Has More Room to Run: Van Straten](https://www.coindesk.com/markets/2025/02/14/bitcoin-short-term-holders-now-possess-over-4m-btc-shows-cycle-has-more-room-to-run-van-straten)
-  - [ ] [Coinbase Benefits From Strong Near-Term Momentum, 2025 Is Off to a Good Start: JMP](https://www.coindesk.com/markets/2025/02/14/coinbase-benefits-from-strong-near-term-momentum-2025-is-off-to-a-good-start-jmp)
-  - [ ] [Japanese Energy Firm Remixpoint Boosts Crypto Holdings More Than 8,000% in 9 Months](https://www.coindesk.com/markets/2025/02/14/japanese-energy-firm-remixpoint-boosts-crypto-holdings-more-than-8-000-in-9-months)
-  - [ ] [XRP, DOGE Rally as SEC Acknowledges ETF Filings, JUP Cheers Token Buyback Plan](https://www.coindesk.com/markets/2025/02/14/xrp-doge-rally-as-sec-acknowledges-etf-filings-jup-cheers-token-buyback-plan)
-- Crypto Briefing
-  - [ ] [Argentina’s president unveils $LIBRA token with 82% supply unlocked across connected wallets](https://cryptobriefing.com/digital-token-launch-libra/)
-  - [ ] [Osprey seeks SEC nod for Bitcoin Trust ETF conversion](https://cryptobriefing.com/osprey-seeks-bitcoin-trust-etf/)
-  - [ ] [Robinhood expands crypto offerings with Pyth Network token PYTH](https://cryptobriefing.com/robinhood-solana-ecosystem-tokens/)
-  - [ ] [Vitalik calls for 10X scaling to reinforce Ethereum’s L1 dominance in an L2-heavy world](https://cryptobriefing.com/ethereum-scaling-10x-l1/)
-  - [ ] [Wisconsin doubles down on BlackRock’s Bitcoin ETF with $321 million investment](https://cryptobriefing.com/wisconsin-bitcoin-investment-321-5m/)
-  - [ ] [Abu Dhabi sovereign wealth fund steps into Bitcoin with a $436M ETF investment](https://cryptobriefing.com/abu-dhabi-sovereign-bitcoin-etf/)
-  - [ ] [SEC’s Crypto Task Force engages with Jito Labs, Multicoin Capital on staking for crypto ETPs](https://cryptobriefing.com/sec-staking-crypto-etps-discussed/)
-  - [ ] [Citi explores adding crypto custody services](https://cryptobriefing.com/citi-explores-crypto-custody-services/)
-  - [ ] [Tether acquires minority stake in Italian football club Juventus](https://cryptobriefing.com/tether-juventus-acquisition/)
-  - [ ] [El Salvador’s president Nayib Bukele meets with Michael Saylor to discuss Bitcoin](https://cryptobriefing.com/bitcoin-meeting-el-salvador/)
-  - [ ] [Wall Street rebel GameStop explores Bitcoin investment after CEO meets with Michael Saylor](https://cryptobriefing.com/gamestop-bitcoin-investment-exploration/)
-  - [ ] [SEC formally accepts Grayscale XRP and Dogecoin ETF applications for review](https://cryptobriefing.com/grayscale-etf-application-sec-review/)
-- HackerNoon
-  - [ ] [Pull Request Testing on Kubernetes: How to Test Locally and on GitHub Workflows](https://hackernoon.com/pull-request-testing-on-kubernetes-how-to-test-locally-and-on-github-workflows?source=rss)
-  - [ ] [Why PAUL Needs a Massive Dataset to Improve Its Movements](https://hackernoon.com/why-paul-needs-a-massive-dataset-to-improve-its-movements?source=rss)
-  - [ ] [How PAUL the Robot Tracks Its Own Movements Using Cameras and LEDs](https://hackernoon.com/how-paul-the-robot-tracks-its-own-movements-using-cameras-and-leds?source=rss)
-  - [ ] [How PAUL, a Soft Robot, is Designed and Built](https://hackernoon.com/how-paul-a-soft-robot-is-designed-and-built?source=rss)
-  - [ ] [No Startup Has Ever Failed Because it Didn’t Have a Blog](https://hackernoon.com/no-startup-has-ever-failed-because-it-didnt-have-a-blog?source=rss)
-  - [ ] [Jay Xiao on the Power of Technology and Surety Through SuretyNow](https://hackernoon.com/jay-xiao-on-the-power-of-technology-and-surety-through-suretynow?source=rss)
-- Release notes from ceno-browser
-  - [ ] [v2.4.1](https://github.com/censorship-no/ceno-browser/releases/tag/v2.4.1)
-- Crypto News on Seeking Alpha
-  - [ ] [Catalyst Watch: Apple product event, Walmart earnings, Sandisk debut, and Visa's Investor Day](https://seekingalpha.com/news/4408494-catalyst-watch-apple-product-event-walmart-earnings-visa-investor-day-and-the-cagny-conference?utm_source=feed_news_crypto&utm_medium=referral&feed_item_type=news)
-  - [ ] [Asia markets mixed as investors assess Trump reciprocal tariffs plan, PBOC's latest policy signals](https://seekingalpha.com/news/4408366-asia-markets-mixed-as-investors-assess-trump-reciprocal-tariffs-plan-pbocs-latest-policy-signals?utm_source=feed_news_crypto&utm_medium=referral&feed_item_type=news)
-- Blockworks: News and insights about digital assets.
-  - [ ] [Pump.fun releases mobile app](https://blockworks.co/news/pumpdotfun-releases-mobile-app)
-  - [ ] [Reciprocal tariffs may be coming, but markets don’t care much just yet](https://blockworks.co/news/reciprocal-tariffs-may-be-coming)
-  - [ ] [Coinbase Q4 takeaways, updated outlook](https://blockworks.co/news/coinbase-q4-earnings)
-  - [ ] [Crypto fundamentals are back](https://blockworks.co/news/crypto-valuations-fundamentals)
-  - [ ] [Exclusive: Inversion Chain’s plan to be the Berkshire of crypto](https://blockworks.co/news/inversion-chain-avalanche)
-  - [ ] [OpenSea and Doodle token teasers are a potential vibes booster for crypto](https://blockworks.co/news/opensea-doodles-crypto)
 - Decrypt
-  - [ ] [FBI Says 'Operation Level Up' Stopped Crypto Fraud Victims From Losing $285 Million](https://decrypt.co/306087/fbi-say-its-operation-level-up-stopped-crypto-fraud-victims-losing-285-million)
-  - [ ] [Pump.fun Debuts Mobile App for Launching and Trading Solana Meme Coins](https://decrypt.co/306072/pumpfun-mobile-app-solana-meme-coins)
-  - [ ] [Abu Dhabi Sovereign Wealth Fund Stockpiles $436 Million in BlackRock Bitcoin ETF Shares](https://decrypt.co/306075/abu-dhabi-stockpiles-436-million-blackrock-bitcoin)
-  - [ ] [Stablecoin Giant Tether Buys Minority Stake in Juventus Soccer Club](https://decrypt.co/306062/stablecoin-giant-tether-minority-share-juventus)
-  - [ ] [TRUMP Solana Meme Coin Spikes 40% as XRP and Dogecoin Jump](https://decrypt.co/306068/trump-solana-meme-coin-spikes-xrp-dogecoin)
-  - [ ] [Ethereum Devs Clash Over Looming Upgrades](https://decrypt.co/306049/ethereum-devs-clash-over-looming-upgrades)
-  - [ ] [Sahil Arora ‘Rugs’ Fake Dog Coin of Binance Founder ‘CZ’ Using Caitlyn Jenner Deployer Wallet](https://decrypt.co/306012/sahil-arora-rugs-binance-cz-caitlyn-jenner)
-  - [ ] [Who is Satoshi Nakamoto, The Creator of Bitcoin?](https://decrypt.co/resources/satoshi-nakamoto)
-  - [ ] [Coinbase and Aston Martin Seal F1 Sponsorship Deal Paid in Stablecoin USDC](https://decrypt.co/305914/coinbase-and-aston-martin-strike-f1-deal-paid-for-in-usdc)
-  - [ ] [Barclays Bank Discloses $131 Million BlackRock Bitcoin ETF Holdings](https://decrypt.co/305964/barclays-bank-131-million-blackrock-bitcoin-etf)
-  - [ ] [Court Grants 60-Day Pause in Binance, SEC Dispute](https://decrypt.co/305943/court-grants-60-day-pause-in-binance-sec-dispute)
-  - [ ] [Estonian Nationals Plead Guilty in $577 Million Crypto HashFlare Ponzi Scheme](https://decrypt.co/305924/estonian-nationals-plead-guilty-in-577-million-crypto-hashflare-ponzi-scheme)
-  - [ ] [SEC Acknowledges Grayscale’s Dogecoin ETF Filing, Review Clock Yet to Start](https://decrypt.co/305915/sec-acknowledges-grayscales-dogecoin-etf-filing-review-clock-yet-to-start)
-  - [ ] [SEC Acknowledges Grayscale’s XRP ETF Proposal, Setting Stage for Federal Review](https://decrypt.co/305912/sec-acknowledges-grayscales-xrp-etf-proposal-setting-stage-for-federal-review)
-- ChainFeeds精选
-  - [ ] [有胜于无，Story 空投有何用武之地？](https://www.chainfeeds.xyz/feed/detail/e5aa1d04-befc-4e96-8c49-a6cae04234ac)
-  - [ ] [Arthur Hayes：政治 Memecoin 的未来](https://www.chainfeeds.xyz/feed/detail/c242d069-267f-4f6f-9cfb-c74665eecef4)
-  - [ ] [BNB Chain 涨幅霸榜，CZ 热能带动 BNB Chain 生态一飞冲天吗？](https://www.chainfeeds.xyz/feed/detail/a061ad29-0292-4982-bc43-aca77b66083f)
-  - [ ] [DeepSeek 对 Web3 AI 上下游协议产生的影响](https://www.chainfeeds.xyz/feed/detail/5af47ad0-e363-4738-a595-8c7c67a92112)
-  - [ ] [【英文】理解以太坊的抗审查性](https://www.chainfeeds.xyz/feed/detail/768dce9c-c90b-4cbb-aeda-9dfc5672f540)
-  - [ ] [ChainFeeds Newsletter 每日精选 Web3 深度投研「简报」+ AI 驱动的热点新闻榜单，帮你做出聪明决策](https://substack.chainfeeds.xyz/p/glassnode2024-dex-cex)
+  - [ ] [Apple Teasing Home Robots? Top Analyst Predicts Surprise for iPhone Giant](https://decrypt.co/306093/apple-home-robots-analyst-predicts-surprise)
+  - [ ] [This Week in Bitcoin: ETF Flows Turn Red, SEC Hack Plea and GameStop Considers Buying](https://decrypt.co/306000/this-week-bitcoin-etf-flows-red-sec-hack-gamestop)
+  - [ ] [Elon Musk and Dogecoin: How the Billionaire Became the 'Dogefather'](https://decrypt.co/291361/elon-musk-dogecoin-timeline-explained)
+  - [ ] [Wisconsin Boosts Bitcoin ETF Holdings, Going All-In on BlackRock](https://decrypt.co/306077/wisconsin-boosts-bitcoin-etf-holdings-blackrock)
+  - [ ] [Argentina’s President Javier Milei Launches Solana Meme Coin—LIBRA Crashes 89%](https://decrypt.co/306134/did-argentina-president-javier-milei-launch-solana-meme-coin)
+  - [ ] ['Ahead of Their Time': Meebits Ethereum NFT IP Sold as New Owner Reveals Bits Rewards](https://decrypt.co/306109/meebits-ethereum-nft-ip-sold-bits-rewards)
+- Crypto News on Seeking Alpha
+  - [ ] [Coinbase regains ground in crypto trading, eroding Robinhood's market share](https://seekingalpha.com/news/4407812-coinbase-regains-ground-in-crypto-trading-eroding-robinhoods-market-share?utm_source=feed_news_crypto&utm_medium=referral&feed_item_type=news)
+  - [ ] [Will GameStop keep its retro vibe or pile billions into crypto?](https://seekingalpha.com/news/4408943-will-gamestop-keep-its-retro-vibe-or-pile-billions-into-crypto?utm_source=feed_news_crypto&utm_medium=referral&feed_item_type=news)
+- Crypto Briefing
+  - [ ] [Argentina’s president withdraws support for LIBRA token, admits to skipping due diligence](https://cryptobriefing.com/milei-crypto-controversies-libra-coinx/)
+  - [ ] [Argentine President-backed LIBRA token tanks 85% as team reportedly dumps $87 million](https://cryptobriefing.com/libra-token-crash-argentina/)
+  - [ ] [Tether engages with US lawmakers on stablecoin regulatory framework](https://cryptobriefing.com/tether-stablecoin-regulations-engagement/)
+  - [ ] [Hedge fund giant Millennium discloses $2.6B Bitcoin ETF and $182M Ethereum ETF holdings](https://cryptobriefing.com/millennium-bitcoin-ethereum-etfs-holdings/)
+- Release notes from nimbus-eth1
+  - [ ] [sim-stat: Add engine_getBlobsV1 implementation (#3071)](https://github.com/status-im/nimbus-eth1/releases/tag/sim-stat)
 - Release notes from erigon
   - [ ] [v3.0.0-beta2](https://github.com/erigontech/erigon/releases/tag/v3.0.0-beta2)
-- 深潮TechFlow
-  - [ ] [TST 狂飙背后：Four.meme 如何 Make BSC Great Again?](https://techflowpost.mirror.xyz/nl9Wq0k3GUYz2_miXJGKgt9QTopWg_BavhrFAolaqP8)
-  - [ ] [对话 Paramita Venture：渗透科研四大环节，成为 DeSci 热门项目投资机构](https://techflowpost.mirror.xyz/BEWw-hhd5j6JNBuH6OP-WZA13L8tYK6py8S0lX_SZJ0)
-- Release notes from go-spacemesh
-  - [ ] [node-split-poc-1.0.8](https://github.com/spacemeshos/go-spacemesh/releases/tag/node-split-poc-1.0.8)
-- 動區動趨-最具影響力的區塊鏈新聞媒體
-  - [ ] [花旗銀行擬提供數位資產託管服務，下一步要發行穩定幣了？](https://www.blocktempo.com/citibank-plans-to-provide-digital-asset-custody-services/)
-  - [ ] [FTX 2/18 啟動首次還款，規模預計 70 億美元！第二階段還款Q2進行](https://www.blocktempo.com/ftx-will-start-the-second-phase-of-repayment-in-q2/)
-  - [ ] [川普祭出對等關稅！美元指數反跌創兩個月新低，CNN：會叫的狗不咬人](https://www.blocktempo.com/trump-proposes-reciprocal-tariff-plan/)
-  - [ ] [香港OTC幣商注意了！政府今年推「場外交易發牌制」，違規最高罰100萬港幣、監禁2年](https://www.blocktempo.com/hong-kong-to-establish-licensing-system-for-otc-trading/)
-- Release notes from Planet
-  - [ ] [release-0.20.2](https://github.com/Planetable/Planet/releases/tag/release-0.20.2)
-  - [ ] [release-0.20.1](https://github.com/Planetable/Planet/releases/tag/release-0.20.1)
-  - [ ] [insider-20250214-1](https://github.com/Planetable/Planet/releases/tag/insider-20250214-1)
-- Crypto Archives - Crunchbase News
-  - [ ] [Healthcare Leads For New Unicorn Counts In January As AI Theme Continues](https://news.crunchbase.com/health-wellness-biotech/new-unicorn-startups-january-2025-hippocratic-ai-mercor/)
+- HackerNoon
+  - [ ] [Design, Manufacturing and Open-Loop Control of a Soft Pneumatic Arm: Bending Experiments](https://hackernoon.com/design-manufacturing-and-open-loop-control-of-a-soft-pneumatic-arm-bending-experiments?source=rss)
+  - [ ] [Soft Robots and Smart Movement](https://hackernoon.com/soft-robots-and-smart-movement?source=rss)
+  - [ ] [Proactive IT Career Growth: Take Control of Your Professional Journey](https://hackernoon.com/proactive-it-career-growth-take-control-of-your-professional-journey?source=rss)
+  - [ ] [How a Soft Robot Arm Moves Using Air, Not Motors](https://hackernoon.com/how-a-soft-robot-arm-moves-using-air-not-motors?source=rss)
+  - [ ] [Elevate Your Night Shift Productivity Levels: 8 Strategies for Thriving - Not Just Surviving](https://hackernoon.com/elevate-your-night-shift-productivity-levels-8-strategies-for-thriving-not-just-surviving?source=rss)
+  - [ ] [How to Scale AI Infrastructure With Kubernetes and Docker](https://hackernoon.com/how-to-scale-ai-infrastructure-with-kubernetes-and-docker?source=rss)
+  - [ ] [A Programmer's Guide to Game Design: The Major Ingredients You Should Know](https://hackernoon.com/a-programmers-guide-to-game-design-the-major-ingredients-you-should-know?source=rss)
+  - [ ] [The HackerNoon Newsletter: No Startup Has Ever Failed Because it Didn’t Have a Blog (2/15/2025)](https://hackernoon.com/2-15-2025-newsletter?source=rss)
+  - [ ] [The TechBeat: Futures of Ethereum II - Censorship Resistance (2/15/2025)](https://hackernoon.com/2-15-2025-techbeat?source=rss)
+  - [ ] [Reading Documentation Shouldn't Be a Chore](https://hackernoon.com/reading-documentation-shouldnt-be-a-chore?source=rss)
+  - [ ] [How to Expose (And Fix) Hidden Bottlenecks in Adobe Experience Manager](https://hackernoon.com/how-to-expose-and-fix-hidden-bottlenecks-in-adobe-experience-manager?source=rss)
+  - [ ] [Launch a Product in a New Market Is Hard, So I Made a 4-Step Framework for Success](https://hackernoon.com/launch-a-product-in-a-new-market-is-hard-so-i-made-a-4-step-framework-for-success?source=rss)
+  - [ ] [Every New Apple Device Expected in 2025](https://hackernoon.com/every-new-apple-device-expected-in-2025?source=rss)
+  - [ ] [How Hospitals Use AI to Boost Efficiency in Medical Imaging Technology](https://hackernoon.com/how-hospitals-use-ai-to-boost-efficiency-in-medical-imaging-technology?source=rss)
+  - [ ] [The Phenomenology of Dark Matter Explained](https://hackernoon.com/the-phenomenology-of-dark-matter-explained?source=rss)
+  - [ ] [Theoretical and Experimental Constraints: Discussing Different Constraints on the Model Parameters](https://hackernoon.com/theoretical-and-experimental-constraints-discussing-different-constraints-on-the-model-parameters?source=rss)
+  - [ ] [A Phenomenological Study of WIMP Models: Scalar Sector, Gauge Sector, and More](https://hackernoon.com/a-phenomenological-study-of-wimp-models-scalar-sector-gauge-sector-and-more?source=rss)
+  - [ ] [Studying a Two-Component Dark Matter Model: An Introduction](https://hackernoon.com/studying-a-two-component-dark-matter-model-an-introduction?source=rss)
+  - [ ] [AI and the Future of Work: Transforming Industries](https://hackernoon.com/ai-and-the-future-of-work-transforming-industries?source=rss)
+  - [ ] [AI’s Hallucinations Are Over](https://hackernoon.com/ais-hallucinations-are-over?source=rss)
+- CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data
+  - [ ] [Wrapped AVAX Sees Increased Wallet Accumulation Amid Bybit Card Cashback Adoption](https://www.coindesk.com/markets/2025/02/15/wrapped-avax-sees-increased-wallet-accumulation-amid-bybit-card-cashback-adoption)
+  - [ ] [Gold-backed Tokens Underperform While Wall Street Calls for Dip Buying in Precious Metal](https://www.coindesk.com/markets/2025/02/15/gold-backed-tokens-underperform-while-wall-street-calls-for-dip-buying-in-precious-metal)
+  - [ ] [Strategy Could Be Eligible for S&P 500 Inclusion in June if Bitcoin Closes Q1 Above $96K](https://www.coindesk.com/markets/2025/02/15/strategy-could-be-eligible-for-s-and-p-500-inclusion-in-june-if-bitcoin-closes-q1-above-usd96k)
+  - [ ] [Pump.fun Doubles Down on Memecoin Craze by Starting Mobile App as New Token Launch Hits Record](https://www.coindesk.com/markets/2025/02/15/pump-fun-doubles-down-on-memecoin-craze-by-starting-new-mobile-app-as-new-token-launch-hits-record)
+  - [ ] [Blockchain.com Takes Step Towards IPO With New Executive Appointments](https://www.coindesk.com/business/2025/02/15/blockchain-com-takes-step-towards-ipo-with-new-executive-appointments)
+  - [ ] [El Salvador Dispatch: How Bitcoin Taught a Nation to Dream](https://www.coindesk.com/coindesk-news/2025/02/14/el-salvador-dispatch-how-bitcoin-taught-a-nation-to-dream)
+  - [ ] [Javier Milei Backtracks on $4.4B Memecoin After 'Insiders' Pocket $87M](https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m)
 - Cointelegraph.com News
-  - [ ] [Bitcoin, crypto firms move to El Salvador, but success rides on banking access](https://cointelegraph.com/news/bitcoin-crypto-firms-move-to-el-salvador-but-success-rides-on-banking-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [Crypto Biz: Goldman Sachs stacks ETH, BTC](https://cointelegraph.com/news/goldman-sachs-stacks-eth-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [West Virginia legislator introduces digital asset reserve bill](https://cointelegraph.com/news/west-virginia-digital-asset-allocation-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [Bitcoin traders fearful after $651M spot BTC ETF outflows — Is a price crash coming?](https://cointelegraph.com/news/bitcoin-traders-fearful-after-651m-spot-btc-etf-outflows-is-a-price-crash-coming?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [Coinbase, Robinhood crush estimates, analysts raise targets](https://cointelegraph.com/news/coinbase-robinhood-crush-estimates-analysts-raise-targets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [State of Wisconsin Investment Board reports over $321M BTC exposure](https://cointelegraph.com/news/state-wisconsin-investment-board-btc-exposure-over-321-m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [Cathie Wood stands by $1.5M Bitcoin prediction despite ETF outflows: Finance Redefined](https://cointelegraph.com/news/cathie-wood-stands-by-1-5-m-bitcoin-prediction-despite-etf-outflows-finance-redefined?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [2025 XRP ETF approval odds hit 81% on Polymarket](https://cointelegraph.com/news/2025-xrp-etf-approval-odds-hit-81-on-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [SEC Crypto Task Force met with firms to discuss staking, litigation review](https://cointelegraph.com/news/sec-crypto-task-force-staking-litigation-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [Wallet enables zero-fee USDT deposits; withdrawal fees remain the same](https://cointelegraph.com/news/telegram-wallet-fee-usdt-deposits-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [Price analysis 2/14: BTC, ETH, XRP, SOL, BNB, DOGE, ADA, LINK, AVAX, SUI](https://cointelegraph.com/news/price-analysis-2-14-btc-eth-xrp-sol-bnb-doge-ada-link-avax-sui?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [Jupiter buybacks to top $100M annually: Research](https://cointelegraph.com/news/jupiter-buybacks-top-100m-annually-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [Has Ethereum lost its edge? Experts weigh in](https://cointelegraph.com/news/has-ethereum-lost-its-crown-experts-weigh-in-on-its-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [National Bank of Canada hints at bearish take on Bitcoin](https://cointelegraph.com/news/national-bank-canada-hints-bearish-take-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [Crypto bills stack up across the US, from Bitcoin reserves to task forces](https://cointelegraph.com/news/crypto-bills-across-us-bitcoin-reserves-task-forces?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [Tether invests in Juventus football club](https://cointelegraph.com/news/tether-invests-juventus-football-club?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [Binance’s CZ suggests CEXs immediately list like DEXs, prompting concerns](https://cointelegraph.com/news/binance-cz-cexs-immediately-list-dexs-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [Hyperliquid’s HYPE token defies market downturn with major gains](https://cointelegraph.com/news/hyperliquid-hype-token-surges-crypto-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-  - [ ] [Bitcoin for the state or Bitcoin for the people?](https://cointelegraph.com/news/bitcoin-for-the-state-or-bitcoin-for-the-people?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
-- Bitcoin Optech
-  - [ ] [Bitcoin Optech Newsletter #341](https://bitcoinops.org/en/newsletters/2025/02/14/)
-- Messari Crypto News Feed
-  - [ ] [Analyst Note: Introducing Unit - Bringing Spot BTC to Hyperliquid](https://messari.io/article/analyst-note-introducing-unit-bringing-spot-btc-to-hyperliquid)
-  - [ ] [State of ApeCoin Q4 2024](https://messari.io/article/state-of-apecoin-q4-2024)
-  - [ ] [State of Ronin Q4 2024](https://messari.io/article/state-of-ronin-q4-2024)
-  - [ ] [State of Chronicle Q4 2024](https://messari.io/article/state-of-chronicle-q4-2024)
-  - [ ] [State of Aleo Q4 2024](https://messari.io/article/state-of-aleo-q4-2024)
-- Release notes from kubo
-  - [ ] [v0.33.2](https://github.com/ipfs/kubo/releases/tag/v0.33.2)
+  - [ ] [Here’s what happened in crypto today](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Scammer impersonates Bermuda premier, promotes fake token](https://cointelegraph.com/news/scammer-impersonates-bermuda-premier-promotes-fake-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Tether working with US lawmakers to shape stablecoin policy: report](https://cointelegraph.com/news/tether-working-us-regulators-stablecoin-policy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [KIP Protocol reveals involvement in Javier Milei-endorsed Libra](https://cointelegraph.com/news/kip-protocol-reveals-involvement-javier-milei-endorsed-libra?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Intent-based solutions can fix DeFi liquidity](https://cointelegraph.com/news/intent-based-solutions-can-fix-de-fi-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Bitcoin&#039;s giant &#039;megaphone pattern&#039; sets $270K-300K BTC price target](https://cointelegraph.com/news/bitcoin-giant-megaphone-pattern-270k-300k-btc-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Leveraged ETFs explained: How do they work?](https://cointelegraph.com/explained/leveraged-etfs-explained-how-do-they-work?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Pantera Capital founder faces tax probe over $850M crypto profits: Report](https://cointelegraph.com/news/pantera-capital-founder-tax-investigation-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Over 600K new tokens launched in January, sparking liquidity fears](https://cointelegraph.com/news/crypto-token-issuance-600k-liquidity-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Javier Milei-endorsed Libra token crashes after $107M insider rug pull](https://cointelegraph.com/news/milei-libra-token-scandal-107m-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [Las Vegas man accused of running $24M crypto-linked Ponzi scheme](https://cointelegraph.com/news/las-vegas-man-crypto-linked-ai-ponzi-scheme-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [SEC asks for 28 more days to respond to Coinbase&#039;s appeal](https://cointelegraph.com/news/crypto-exchange-coinbase-us-sec-lawsuit-request-extension?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+  - [ ] [NYSE proposes rule change to allow ETH staking on Grayscale’s spot Ether ETFs](https://cointelegraph.com/news/grayscale-spot-ether-etf-staking-proposal-united-states-nyse?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
+- Release notes from mina
+  - [ ] [Devnet Pre-Release 3.0.4-alpha2](https://github.com/MinaProtocol/mina/releases/tag/3.0.4-alpha2)
+- 動區動趨-最具影響力的區塊鏈新聞媒體
+  - [ ] [動區週報》 Pi幣即將上線、阿根廷總統捲入發幣爭議、CZ愛犬迷因之亂…](https://www.blocktempo.com/quick-look-at-this-week-market-dynamics-and-analysis-0215/)
+  - [ ] [馬斯克xAI傳擬募資100億美元！50億鎂採購戴爾伺服器，Grok 3即將登場？](https://www.blocktempo.com/musks-xai-reportedly-plans-to-raise-10-billion/)
+  - [ ] [怒嗆$LIBRA是Rug！Solayer創辦人自曝損失超200萬鎂；發幣團隊辯：資金將支持阿根廷企業](https://www.blocktempo.com/solayer-founder-reveals-a-loss-of-over-2-million-in-libra-and-launches-a-doxxing-campaign-against-the-kip-protocol-team/)
+  - [ ] [阿根廷總統不認發$LIBRA！刪推後幣價崩跌95%，發幣團隊狂撈1億鎂](https://www.blocktempo.com/argentine-president-javier-milei-denies-issuing-libra/)
+  - [ ] [CZ道歉！為「花椰菜之亂」補償散戶：BNB Chain啟動440萬鎂迷因幣激勵計劃](https://www.blocktempo.com/cz-apologizes-and-vows-to-compensate-retail-investors/)
+  - [ ] [阿布達比主權基金投資超4億美元比特幣ETF，BTC上攻9.9萬鎂](https://www.blocktempo.com/abu-dhabi-sovereign-wealth-fund-invests-over-400-million-in-bitcoin-etfs/)
+- ChainFeeds精选
+  - [ ] [ChainFeeds Newsletter 每日精选 Web3 深度投研「简报」+ AI 驱动的热点新闻榜单，帮你做出聪明决策](https://substack.chainfeeds.xyz/p/deepseek-web3-ai-bnb-chain-cz-bnb)
 - Release notes from sui
-  - [ ] [sui_v1.44.0_1739583830_ci: [consensus] remove non distributed vote scoring logic (#21239)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739583830_ci)
-  - [ ] [sui_v1.44.0_1739578721_rel_notes: [consensus] remove non distributed vote scoring logic (#21239)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739578721_rel_notes)
-  - [ ] [sui_v1.44.0_1739572475_ci](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739572475_ci)
-- Release notes from metamask-mobile
-  - [ ] [v7.40.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.40.0)
+  - [ ] [sui_v1.44.0_1739647951_ci: Clean up various APIs (#21235)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739647951_ci)
+  - [ ] [sui_v1.44.0_1739642723_rel_notes: Clean up various APIs (#21235)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739642723_rel_notes)
+  - [ ] [sui_v1.44.0_1739637261_ci](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739637261_ci)
+  - [ ] [sui_v1.44.0_1739631919_rel_notes](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739631919_rel_notes)
+  - [ ] [sui_v1.44.0_1739604895_ci: fix(simtests): pass env vars to cargo-simtest (#21035)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739604895_ci)
+  - [ ] [sui_v1.44.0_1739599539_rel_notes: fix(simtests): pass env vars to cargo-simtest (#21035)](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739599539_rel_notes)
+  - [ ] [sui_v1.44.0_1739594182_ci](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739594182_ci)
+  - [ ] [sui_v1.44.0_1739588812_rel_notes](https://github.com/MystenLabs/sui/releases/tag/sui_v1.44.0_1739588812_rel_notes)
+- Messari Crypto News Feed
+  - [ ] [Exploring CARV's AI Chain Ecosystem](https://messari.io/article/exploring-carv-s-ai-chain-ecosystem)
+- Release notes from chia-blockchain
+  - [ ] [2.5.1](https://github.com/Chia-Network/chia-blockchain/releases/tag/2.5.1)
+- Release notes from risc0
+  - [ ] [v1.3.0-rc.1](https://github.com/risc0/risc0/releases/tag/v1.3.0-rc.1)
+- Release notes from Planet
+  - [ ] [insider-20250214-2](https://github.com/Planetable/Planet/releases/tag/insider-20250214-2)
+- Release notes from nethermind
+  - [ ] [v1.31.0](https://github.com/NethermindEth/nethermind/releases/tag/1.31.0)
 - Ethereum Research - Latest posts
-  - [ ] [Native rollups—superpowers from L1 execution](https://ethresear.ch/t/native-rollups-superpowers-from-l1-execution/21517?page=2#post_25)
-  - [ ] [Becoming Based: A Path towards Decentralised Sequencing](https://ethresear.ch/t/becoming-based-a-path-towards-decentralised-sequencing/21733#post_8)
-- The Trail of Bits Blog
-  - [ ] [Unleashing Medusa: Fast and scalable smart contract fuzzing](https://blog.trailofbits.com/2025/02/14/unleashing-medusa-fast-and-scalable-smart-contract-fuzzing/)
-- Release notes from zeus
-  - [ ] [v0.10.0-alpha2](https://github.com/ZeusLN/zeus/releases/tag/v0.10.0-alpha2)
-- Outlier Ventures
-  - [ ] [Token Trendlines #4: Gaming & Proof of Personhood (PoP)](https://outlierventures.io/article/token-trendlines-4-gaming-proof-of-personhood-pop/)
-  - [ ] [Outlier Ventures Partners with LifeX Ventures on The Post Web Base Camp](https://outlierventures.io/article/outlier-ventures-partners-with-lifex-ventures-on-the-post-web-base-camp/)
-- Newcomer
-  - [ ] [Safety Third Is the New Motto at Paris AI Action Summit](https://www.newcomer.co/p/safety-third-is-the-new-motto-at)
-- Bankless
-  - [ ] [ROLLUP: Trump vs. The Fed | Staked ETH ETF | The First Stage 2 Rollup | Robinhood's Crypto Pivot](http://sites.libsyn.com/247424/rollup-trump-vs-the-fed-staked-eth-etf-the-first-stage-2-rollup-robinhoods-crypto-pivot)
+  - [ ] [Combining on-chain identifiers and proof system to streamline data processing across modular networks](https://ethresear.ch/t/combining-on-chain-identifiers-and-proof-system-to-streamline-data-processing-across-modular-networks/21753#post_1)
+- HODLong 后浪
+  - [ ] [Ep.49 [EN]: Nico: Sailing with OX.FUN in the first meme bull market](https://hodlong-hou-lang.simplecast.com/episodes/ep49-en-nico-sailing-with-oxfun-in-the-first-meme-bull-market-AkdX4OIT)
+- Ethereum Research - Latest topics
+  - [ ] [Combining on-chain identifiers and proof system to streamline data processing across modular networks](https://ethresear.ch/t/combining-on-chain-identifiers-and-proof-system-to-streamline-data-processing-across-modular-networks/21753)
